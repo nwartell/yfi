@@ -1,0 +1,12 @@
+{
+    "name": "nwartell/yfi",
+    "description": "An easy YFinance wrapper for PHP applications",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nwartell\\YFi\\": "src/"
+        }
+    },
+    "require": {}
+}
